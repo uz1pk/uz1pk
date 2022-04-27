@@ -17,8 +17,6 @@ My name is Usman and I'm a Software Engineering student from Canada.
 
 💬 Reach me by email or LinkedIn! usmanozaheer@gmail.com | uzaheer@uoguelph.ca | https://www.linkedin.com/in/usman-zaheer-pk/
 
-📫 Visit my website: https://matthewpancv.web.app
-
 <!--
 **uz1pk/uz1pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
