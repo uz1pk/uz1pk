@@ -3,7 +3,7 @@
 My name is Usman and I'm a Software Engineering student from Canada.
 
 ⚡ Work experience: <br>
-- Incoming Software Engineer intern at TigertCat [Paris. Summer 2022]
+- Incoming Software Developer intern at TigertCat [Paris. Summer 2022]
 - High School Computer Science Tutor at Kadama [Remote. 2021]
 - Network Technician Intern at Stevenson High School [Bronx. 2019]
 
