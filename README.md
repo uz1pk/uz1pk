@@ -12,7 +12,7 @@ My name is Usman and I'm a Software Engineering student from Canada.
 - Post RESTful API (ASP .Net Core)
 
 🌱 Interests:
-- Web development (Backend, Infrastructure and Netowork/Security)
+- Web development (Backend, Infrastructure and Network/Security)
 - Artificial Intellegence/Machine Learning
 - IoT/Automated Embedded Systems
 
