@@ -9,7 +9,7 @@ My name is Usman and I'm a Software Engineering student from Canada.
 - Network Technician Intern at Stevenson High School [Bronx. 2019]
 
 🔭 Current project: 
-- Tweet Post Data RESTful API (ASP .Net Core)
+- Post RESTful API (ASP .Net Core)
 
 🌱 Interests:
 - Web development (Backend, Infrastructure and Netowork/Security)
