@@ -9,7 +9,7 @@ My name is Usman and I'm a Software Engineering student from Canada.
 - Network Technician Intern at Stevenson High School [Bronx. 2019]
 
 🔭 Current project: 
-- Post RESTful API (ASP .Net Core)
+- Deciding between Prediction AI or a Full stack app idea
 
 🌱 Interests:
 - Web development (Backend, Infrastructure and Network/Security)
