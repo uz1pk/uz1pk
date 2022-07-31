@@ -9,7 +9,7 @@ My name is Usman and I'm a Software Engineering student from Canada.
 - Network Technician Intern at Stevenson High School [Bronx. 2019]
 
 🔭 Current project: 
-- Deciding between Prediction AI or a Full stack app idea
+- Personal Website/Portfolio
 
 🌱 Interests:
 - Web development (Backend, Infrastructure and Network/Security)
@@ -17,18 +17,3 @@ My name is Usman and I'm a Software Engineering student from Canada.
 - IoT/Automated Embedded Systems
 
 💬 Reach me by email or LinkedIn! usmanozaheer@gmail.com | uzaheer@uoguelph.ca | https://www.linkedin.com/in/usman-zaheer-pk/
-
-<!--
-**uz1pk/uz1pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
