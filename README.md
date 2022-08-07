@@ -9,7 +9,7 @@ My name is Usman and I'm a Software Engineering student from Canada.
 - Network Technician Intern at Stevenson High School [Bronx. 2019]
 
 🔭 Current project: 
-- Personal Website/Portfolio
+- Deploying portfolio, then Clicked 
 
 🌱 Interests:
 - Web development (Backend, Infrastructure and Network/Security)
