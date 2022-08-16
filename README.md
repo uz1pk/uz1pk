@@ -9,7 +9,7 @@ My name is Usman and I'm a Software Engineering student from Canada.
 - Network Technician Intern at Stevenson High School [Bronx. 2019]
 
 🔭 Current project: 
-- Deploying portfolio, then Clicked (private repo)
+- Clicked (private repo)
 
 🌱 Interests:
 - Web development (Backend, Infrastructure and Network/Security)
