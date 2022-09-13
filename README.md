@@ -3,16 +3,17 @@
 My name is Usman and I'm a 3rd year Software Engineering student from Canada.
 
 ⚡ Work experience: <br>
-- Software Developer intern at Pro Navigator [Toronto. Fall 2022]
-- Software Developer intern at TigertCat [Paris. Summer 2022]
-- High School Computer Science Tutor at Kadama [Remote. 2021]
+- Software Developer intern at Pro Navigator [Kitchener. Fall 2022]
+- Software Developer intern at TigertCat [Cambridge. Summer 2022]
+- TA University of Guelph [Remote. Spring 2022]
+- Web Developer Intern [Kitchener. Summer 2021
 - Network Technician Intern at Stevenson High School [Bronx. 2019]
 
 🔭 Current project: 
-- Clicked (private repo)
+- Work and Leetcode (had to hold off on Clicked) :(
 
 🌱 Interests:
-- Web development (Backend, Infrastructure and Network/Security)
+- Web development (Backend, Cloud, Network/Security, and Infrastructure)
 - Artificial Intellegence/Machine Learning
 - IoT/Automated Embedded Systems
 
