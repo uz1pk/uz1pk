@@ -6,7 +6,7 @@ My name is Usman and I'm a 3rd year Software Engineering student from Canada.
 - Software Developer Intern at Pro Navigator [Remote. Fall 2022]
 - Software Developer Intern at TigertCat [Cambridge. Summer 2022]
 - Teaching Assistant at University of Guelph [Remote. Spring 2022]
-- Web Developer Intern [Kitchener. Summer 2021
+- Web Developer Intern [Kitchener. Summer 2021]
 - Network Technician Intern at Stevenson High School [Bronx. 2019]
 
 🔭 Current project: 
