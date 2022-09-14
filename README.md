@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Usman and I'm a 3rd year Software Engineering student from Canada.
+My name is Usman and I'm a 3rd year Software Engineering student.
 
 ⚡ Work experience: <br>
 - Software Developer Intern at Pro Navigator [Remote. Fall 2022]
