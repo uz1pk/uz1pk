@@ -9,7 +9,7 @@ My name is Usman and I'm a 3rd year Software Engineering student.
 - Web Developer Intern [Kitchener. Summer 2021]
 
 🔭 Current project: 
-- Work and Leetcode (had to hold off on Clicked) :(
+- Work and Leetcode, had to hold off on Clicked  :(
 
 🌱 Interests:
 - Web development (Backend, Cloud, Network/Security, and Infrastructure)
