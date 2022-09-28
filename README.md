@@ -9,7 +9,7 @@ My name is Usman and I'm a 3rd year Software Engineering student.
 - Web Developer at ACRP Ltd [Remote. Summer 2021]
 
 🔭 Current project: 
-- Job Applications and Leetcode : (  (finished shrinkly)
+- Job Applications and Leetcode (finished shrinkly)
 
 🌱 Interests:
 - Web development (Backend, Cloud, Network/Security, and Infrastructure)
