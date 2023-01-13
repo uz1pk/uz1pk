@@ -15,4 +15,4 @@ My name is Usman and I'm a 3rd year Software Engineering student.
 - Artificial Intellegence/Machine Learning
 - IoT/Automated Embedded Systems
 
-💬 Reach me by email or LinkedIn! uzaheer.work@gmail.com | https://www.linkedin.com/in/usman-zaheer-pk/
+💬 Reach by either of the following: uzaheer.work@gmail.com || uzaheer@uoguelph.ca || https://www.linkedin.com/in/usman-zaheer-pk/
