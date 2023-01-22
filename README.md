@@ -2,7 +2,7 @@
 
 My name is Usman and I'm a 3rd year Software Engineering student.
 
-⚡ Main Work experience: <br>
+⚡ Main Work Experience: <br>
 - Software Engineer Intern at Palantir [New York City, Summer 2023]
 - Software Developer Intern at Pro Navigator [Remote. Fall 2022]
 - Software Developer Intern at TigertCat [Cambridge. Summer 2022]
@@ -11,8 +11,9 @@ My name is Usman and I'm a 3rd year Software Engineering student.
 - Course on Distributed Systems
 
 🌱 Interests:
-- Web development (Backend, Cloud, Network/Security, and Infrastructure)
-- Artificial Intellegence/Machine Learning
-- IoT/Automated Embedded Systems
+- Backend/Cloud
+- Network
+- Security
+- Infrastructure
 
 💬 Reach by either of the following: uzaheer.work@gmail.com || uzaheer@uoguelph.ca || https://www.linkedin.com/in/usman-zaheer-pk/
