@@ -11,9 +11,9 @@ My name is Usman and I'm a 3rd year Software Engineering student.
 - Course on Distributed Systems
 
 🌱 Interests:
-- Backend/Cloud
+- Backend
 - Network
 - Security
-- Infrastructure
+- Infrastructure/Cloud
 
 💬 Reach by either of the following: uzaheer.work@gmail.com || uzaheer@uoguelph.ca || https://www.linkedin.com/in/usman-zaheer-pk/
