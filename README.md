@@ -9,7 +9,7 @@ My name is Usman and I'm a 3rd year Software Engineering student.
 - Software Developer Intern at TigertCat [Cambridge. Summer 2022]
 
 🔭 Current project: 
-- Course on Distributed Systems
+- Working through 6.5840 Distributed Computer Systems Engineering
 
 🌱 Interests:
 - Distributed Systems
