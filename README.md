@@ -2,13 +2,15 @@
 
 My name is Usman and I'm a 3rd year Software Engineering student.
 
-⚡ Main Work Experience: <br>
+⚡ Work Experience: <br>
 - Software Engineer Intern at Palantir [New York City, Summer 2023]
 - Software Developer at University of Guelph [Guelph, Winter 2023]
 - Software Engineer Intern at Pro Navigator [Remote. Fall 2022]
 - Software Developer Intern at TigertCat [Cambridge. Summer 2022]
 
 🔭 Current project: 
+- Reading the Pragmatic Programmar
+- Learning Advanced Functional Programming
 - Working through 6.5840 Distributed Computer Systems Engineering
 
 🌱 Interests:
