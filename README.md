@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Usman and I'm a 3rd year Software Engineering student.
+My name is Usman and I'm a 4th year Software Engineering student.
 
 ⚡ Work Experience: <br>
 - Software Engineer Intern at Palantir [New York City, Summer 2023]
