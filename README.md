@@ -9,7 +9,7 @@ My name is Usman and I'm a 4th year UoGuelph student, majoring in Software Engin
 - Software Engineer Intern at ProNavigator [Remote. Fall 2022]
 - Software Developer Intern at TigertCat [Cambridge. Summer 2022]
 
-🔭 Current project: 
+🔭 Current: 
 - Reading the Pragmatic Programmar
 - Learning Functional Programming Theory
 - Working through 6.5840 Distributed Computer Systems Engineering
