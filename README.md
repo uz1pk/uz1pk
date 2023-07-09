@@ -11,7 +11,7 @@ My name is Usman and I'm a 4th year UoGuelph student, majoring in Software Engin
 
 🔭 Current project: 
 - Reading the Pragmatic Programmar
-- Learning Advanced Functional Programming
+- Learning Functional Programming Theory
 - Working through 6.5840 Distributed Computer Systems Engineering
 
 🌱 Interests:
