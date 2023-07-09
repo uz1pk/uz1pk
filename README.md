@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Usman and I'm a 4th year Software Engineering student.
+My name is Usman and I'm a 4th year UoGuelph student, majoring in Software Engineering.
 
 ⚡ Work Experience: <br>
 - Incoming Software Engineer Intern at RBC [Remote, Fall 2023]
