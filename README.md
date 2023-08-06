@@ -20,4 +20,4 @@ My name is Usman and I'm a 4th year UoGuelph student, majoring in Software Engin
 - Security
 - Infrastructure
 
-💬 Reach by either of the following: uzaheer.work@gmail.com || uzaheer@uoguelph.ca || https://www.linkedin.com/in/usman-zaheer-pk/
+💬 Reach by either of the following: uzaheer.work@gmail.com || linkedin.com/in/usman-zaheer-pk/
