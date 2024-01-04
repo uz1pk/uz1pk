@@ -17,6 +17,6 @@ My name is Usman and I'm a 4th year UoGuelph Student, Majoring in Software Engin
 
 🌱 Interests:
 - Distributed Systems + Networking
-- Infrastructure + Scaling
+- Infrastructure
 
 💬 Reach by either of the following: uzaheer.work@gmail.com || linkedin.com/in/usman-zaheer-pk/
