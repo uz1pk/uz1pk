@@ -1,22 +1,19 @@
-### Hi there 👋
-
-My name is Usman and I'm a 4th year UoGuelph Student, Majoring in Software Engineering.
+## Hi, I'm Usman 👋
 
 ⚡ Work Experience: <br>
-- Software Engineer Intern at RBC [Toronto. Winter 2024]
-- Software Engineer Intern at RBC [Toronto. Fall 2023]
-- Software Engineer Intern at Palantir [New York City. Summer 2023]
-- Software Developer at University of Guelph [Guelph. Winter 2023]
-- Software Engineer Intern at ProNavigator [Kitchener. Fall 2022]
-- Software Developer Intern at TigertCat [Cambridge. Summer 2022]
+- Software Engineer at Palantir [Denver. August 2024 - Present]
+- Software Engineer Intern at RBC [Toronto. September 2023 - April 2024]
+- Software Engineer Intern at Palantir [New York City. May 2023 - August 2023]
+- Software Developer at University of Guelph [Guelph. January 2023 - April 2023]
+- Software Engineer Intern at ProNavigator [Kitchener. September 2022 - December 2022]
+- Software Developer Intern at TigertCat [Cambridge. May 2022 - August 2022]
 
 🔭 Current: 
-- Finished Pragmatic Programmer!!!
-- Learning Functional Programming (Using Scala)
-- 6.5840 Distributed Computer Systems Engineering + Computer Networks
+- Reading DDIA
+- Learning/using Federated GraphQL
+- Learning Scala
 
 🌱 Interests:
-- Distributed Systems + Networking
-- Infrastructure
+Distributed Systems, Networking, Infrastructure
 
 💬 Reach by either of the following: uzaheer.work@gmail.com || linkedin.com/in/usman-zaheer-pk/
