@@ -14,4 +14,4 @@
 🌱 Interests:
 Distributed Systems, Networking, Infrastructure (Compute, Deployment, Network)
 
-💬 Reach by either of the following: uzaheer.work@gmail.com || linkedin.com/in/usman-zaheer-pk/
+💬 Reach by either of the following: [uzaheer.work@gmail.com](mailto:uzaheer.work@gmail.com) || [linkedin.com/in/usman-zaheer-pk/](https://www.linkedin.com/in/usman-zaheer-pk/)
