@@ -10,10 +10,8 @@
 
 🔭 Current: 
 - Reading DDIA
-- Learning/using Federated GraphQL
-- Learning Scala
 
 🌱 Interests:
-Distributed Systems, Networking, Infrastructure
+Distributed Systems, Networking, Infrastructure (Compute, Deployment, Network)
 
 💬 Reach by either of the following: uzaheer.work@gmail.com || linkedin.com/in/usman-zaheer-pk/
