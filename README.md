@@ -6,7 +6,7 @@
 - Software Engineer Intern at Palantir [New York City. May 2023 - August 2023]
 - Software Developer at University of Guelph [Guelph. January 2023 - April 2023]
 - Software Engineer Intern at ProNavigator [Kitchener. September 2022 - December 2022]
-- Software Developer Intern at TigertCat [Cambridge. May 2022 - August 2022]
+- Software Developer Intern at TigerCat [Cambridge. May 2022 - August 2022]
 
 🔭 Current: 
 - Reading DDIA
